@@ -1,0 +1,13 @@
+.commit {
+    padding: 0;
+    margin: 0;
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 1px solid red ;
+}
+
+.button {
+    background-color: brown;
+    color: white;
+    border-radius: 10px;
+}
